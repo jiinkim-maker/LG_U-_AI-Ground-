@@ -18,7 +18,8 @@ LG U+ 콘텐츠 추천 모델 제작
 
 ## Results
 최종 : 658개의 팀 중 37위 기록.
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7e6e3457-07ce-487c-9693-3fb2376521b6/Untitled.png)
+![Untitled___](https://github.com/user-attachments/assets/9a199d77-fa47-4063-944e-f1a95dbaa6a7)
+
 
 ## Paper Review
 # 1. **Backgrounds : Recommender system**
