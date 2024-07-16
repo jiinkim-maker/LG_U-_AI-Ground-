@@ -1,4 +1,4 @@
-# LG_U-_AI-Ground-
+# LG_U+_AI_Ground
 LG U+ 콘텐츠 추천 모델 제작
 
 ## About the project
